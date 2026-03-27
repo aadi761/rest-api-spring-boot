@@ -16,7 +16,7 @@ Post : Add Student
 
 GET : Fetch all students
 
-<img width="1919" height="1077" alt="Screenshot 2026-03-27 053733" src="https://github.com/user-attachments/assets/c578356b-5777-4f8f-bcd3-051513781236" />
+
 
 <img width="1919" height="819" alt="Screenshot 2026-03-27 053828" src="https://github.com/user-attachments/assets/933924f9-92d3-4f49-85e1-980dc149c4d6" />
 
