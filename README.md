@@ -11,17 +11,23 @@ The API can be tested using Postman by sending appropriate HTTP requests with JS
 Screenshots:
 
 Post : Add Student
+
 <img width="1919" height="1077" alt="Screenshot 2026-03-27 053733" src="https://github.com/user-attachments/assets/807d06b8-dfa5-432b-a87e-9896385aeed2" />
 
 GET : Fetch all students
+
 <img width="1919" height="1077" alt="Screenshot 2026-03-27 053733" src="https://github.com/user-attachments/assets/c578356b-5777-4f8f-bcd3-051513781236" />
 
 <img width="1919" height="819" alt="Screenshot 2026-03-27 053828" src="https://github.com/user-attachments/assets/933924f9-92d3-4f49-85e1-980dc149c4d6" />
 
-PUT : 
-<img width="1911" height="1050" alt="Screenshot 2026-03-27 054242" src="https://github.com/user-attachments/assets/cf992423-7ed4-400d-aa89-586650f30dc4" />
 
-<img width="1911" height="1050" alt="Screenshot 2026-03-27 054242" src="https://github.com/user-attachments/assets/69dcba9b-eaa5-439a-82be-f5ecff72beee" />
+PUT : 
+
+<img width="1919" height="1077" alt="Screenshot 2026-03-27 054225" src="https://github.com/user-attachments/assets/0a703ea9-6efc-4c9a-a02f-587a8f5f83ed" />
+
+<img width="1911" height="1050" alt="Screenshot 2026-03-27 054242" src="https://github.com/user-attachments/assets/edd37179-ed44-46bf-80ea-b821f1093eb4" />
+
+
 
 DELETE :
 
