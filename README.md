@@ -5,21 +5,20 @@
 This project uses Spring Boot, Spring Data JPA, and MySQL to provide seamless database interaction.
 
 🚀 Features
-➕ Add a new student
-📄 Get all students
-🔍 Get a student by ID
-✏️ Update student details
-❌ Delete a student
+➕ Add a new student 
+📄 Get all students 
+🔍 Get a student by ID 
+✏️ Update student details 
+❌ Delete a student 
 
 🛠️ Technologies Used
-Java
-Spring Boot
-Spring Data JPA
-MySQL
-Maven
-Eclipse IDE
-REST API
-Postman
+Java 
+Spring Boot 
+Spring Data JPA 
+MySQL 
+Maven 
+REST API 
+Postman 
 
 
 Screenshots:
